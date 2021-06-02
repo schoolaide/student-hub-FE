@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Is PHP still a relevant language in 2017?	</title>
+	<atom:link href="https://2code.info/demo/themes/Discy/Main/question/is-php-still-a-relevant-language-in-2017/feed/" rel="self" type="application/rss+xml" />
+	<link>https://2code.info/demo/themes/Discy/Main/question/is-php-still-a-relevant-language-in-2017/</link>
+	<description>Social Questions and Answers</description>
+	<lastBuildDate>Tue, 18 May 2021 08:47:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Ahmed Hassan		</title>
+		<link>https://2code.info/demo/themes/Discy/Main/question/is-php-still-a-relevant-language-in-2017/#comment-21</link>
+
+		<dc:creator><![CDATA[Ahmed Hassan]]></dc:creator>
+		<pubDate>Wed, 18 Apr 2018 21:28:21 +0000</pubDate>
+		<guid isPermaLink="false">https://2code.info/demo/themes/Discy/Main/questions/is-php-still-a-relevant-language-in-2017/#comment-21</guid>
+
+					<description><![CDATA[PHP is still very relevant! Since the release of PHP 7, the language is now being concidered as an enterprise programming language. This means that it’s used a lot of places where big work-loads happen.
+
+The true magic with PHP is that there are different frameworks that makes your code very nice to look at; while also making your job very much easier. (little plug for Laravel ;))]]></description>
+			<content:encoded><![CDATA[<p>PHP is still very relevant! Since the release of PHP 7, the language is now being concidered as an enterprise programming language. This means that it’s used a lot of places where big work-loads happen.</p>
+<p>The true magic with PHP is that there are different frameworks that makes your code very nice to look at; while also making your job very much easier. (little plug for Laravel ;))</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: John Peter		</title>
+		<link>https://2code.info/demo/themes/Discy/Main/question/is-php-still-a-relevant-language-in-2017/#comment-20</link>
+
+		<dc:creator><![CDATA[John Peter]]></dc:creator>
+		<pubDate>Wed, 18 Apr 2018 21:28:12 +0000</pubDate>
+		<guid isPermaLink="false">https://2code.info/demo/themes/Discy/Main/questions/is-php-still-a-relevant-language-in-2017/#comment-20</guid>
+
+					<description><![CDATA[Yes it still is and it will be for a long time. At least in web development.
+
+WordPress is powering close to 75 million website and that uses PHP. I work for an agency that is trying to get PHP developer for 12 month and is still employing. In the UK is a large amount of open PHP jobs and I get contacted at least once every week from companies offering PHP jobs.
+
+If you want to get paid for your work and want to be able to choose the company you work for then PHP is the language you need to be good at.]]></description>
+			<content:encoded><![CDATA[<p>Yes it still is and it will be for a long time. At least in web development.</p>
+<p>WordPress is powering close to 75 million website and that uses PHP. I work for an agency that is trying to get PHP developer for 12 month and is still employing. In the UK is a large amount of open PHP jobs and I get contacted at least once every week from companies offering PHP jobs.</p>
+<p>If you want to get paid for your work and want to be able to choose the company you work for then PHP is the language you need to be good at.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Barry Carter		</title>
+		<link>https://2code.info/demo/themes/Discy/Main/question/is-php-still-a-relevant-language-in-2017/#comment-19</link>
+
+		<dc:creator><![CDATA[Barry Carter]]></dc:creator>
+		<pubDate>Wed, 18 Apr 2018 21:28:03 +0000</pubDate>
+		<guid isPermaLink="false">https://2code.info/demo/themes/Discy/Main/questions/is-php-still-a-relevant-language-in-2017/#comment-19</guid>
+
+					<description><![CDATA[It is just shifting away from being the only major server-side scripting language to one of many, that is all.
+
+It is true that it became out of favor for high volume sites and large-scale commercial infrastructures lately but it still remains really popular for small to mederate sized applications.
+
+If Facebook was about to be developed today, probably it would not be developed in PHP, but that does not make the language irrelevant at all.]]></description>
+			<content:encoded><![CDATA[<p>It is just shifting away from being the only major server-side scripting language to one of many, that is all.</p>
+<p>It is true that it became out of favor for high volume sites and large-scale commercial infrastructures lately but it still remains really popular for small to mederate sized applications.</p>
+<p>If Facebook was about to be developed today, probably it would not be developed in PHP, but that does not make the language irrelevant at all.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
